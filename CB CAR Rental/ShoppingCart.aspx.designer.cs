@@ -11,7 +11,7 @@ namespace CB_CAR_Rental
 {
 
 
-    public partial class _Default
+    public partial class Product
     {
     }
 }
